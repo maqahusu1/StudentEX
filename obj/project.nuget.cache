@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "drdvJWFm2aOea45yNLw4HdCB2sGs9IctquEPDppJzdT7A5rFR7YmODupPn+H2r4e3VGjjWKkMeVSo0V65mSCmA==",
+  "success": true,
+  "projectFilePath": "/Users/maqa/Desktop/StudentEX/StudentEX/StudentEX.csproj",
+  "expectedPackageFiles": [
+    "/Users/maqa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/maqa/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/maqa/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
