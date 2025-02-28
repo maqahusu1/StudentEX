@@ -8,16 +8,12 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="91" Column="2" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StudentEX " expanded="True">
-            <Node name="StudentEX">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="StudentEX " expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
